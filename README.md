@@ -13,6 +13,7 @@ The documentation outlines the system's programming, from sensor configuration t
 
 
 ### Automated Package Delivery Robot in Action
-[![Watch the video](https://img.youtube.com/vi/USjFG8ZzcyE/maxresdefault.jpg)](https://youtu.be/USjFG8ZzcyE)
+[![Watch the video](https://img.youtube.com/vi/USjFG8ZzcyE/hqdefault.jpg)](https://youtu.be/USjFG8ZzcyE)
+
 
 
