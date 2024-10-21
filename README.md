@@ -10,3 +10,9 @@ Pickup: The robot collects the package from the origin, using sensors and actuat
 Preparation: Optimal routes are assigned through algorithms like Breadth-First Search (BFS), ensuring obstacles are avoided.
 Delivery: The robot follows the most efficient route to deliver the package quickly and accurately.
 The documentation outlines the system's programming, from sensor configuration to the integration of AI algorithms for route optimization.
+
+
+### Automated Package Delivery Robot in Action
+[![Watch the video](https://img.youtube.com/vi/USjFG8ZzcyE/maxresdefault.jpg)](https://youtu.be/USjFG8ZzcyE)
+
+
